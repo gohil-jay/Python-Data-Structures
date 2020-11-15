@@ -1,3 +1,5 @@
+#Author: Jay Gohil
+
 a = [1,45,23,56,78,12]
 print(a)
 
